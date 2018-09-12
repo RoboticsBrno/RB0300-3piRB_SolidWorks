@@ -19,12 +19,12 @@ Podrobnější obsah jednotlivých složek:
 									
 
 ## Cíl práce
-   Cílem této práce byl návrh nadstavbové desky (shieldu) pro robota Pololu 3pi. Konstrukce robota je od výrobce optimalizována
+<p>Cílem této práce byl návrh nadstavbové desky (shieldu) pro robota Pololu 3pi. Konstrukce robota je od výrobce optimalizována
 na soutěžní disciplínu „sledování čáry“, kde robot dosahuje výborných výsledků a nemá mezi komerčně dostupnými produkty konkurenci. Ovšem při složitější variantě této disciplíny “najdi čáru“, konající se na Robotickém dni v Praze, kde dráha obsahuje rozpojky, odbočky, nebo překážky, není možné s ním závodit. Můj shield může posloužit, kromě možné účasti na soutěžích, také ve výuce. V ní si student může
-robota sám naprogramovat. Přidáním funkcí a senzorů bude robot univerzálnější než doposud. 
+robota sám naprogramovat. Přidáním funkcí a senzorů bude robot univerzálnější než doposud.</p>
 ![Robot Pololu 3pi](Pou%C5%BEit%C3%A9%20obr%C3%A1zky/C%C3%ADl%20pr%C3%A1ce.png)
-   Práce řeší rozšíření možností využití robota Pololu 3pi návrhem nadstavby s doplňkovými funkcemi.
-Přidané funkce umožňují robotovi snímat podněty ze svého okolí. Další navrženou částí je nárazník pro ochranu před mechanickým poškozením, ke kterému v praxi velmi často dochází. Tyto nárazy způsobovli nefunkčnost senzorů odrazivosti nebo dokonce i jejich odlomení od desky.
+<p>Práce řeší rozšíření možností využití robota Pololu 3pi návrhem nadstavby s doplňkovými funkcemi.
+Přidané funkce umožňují robotovi snímat podněty ze svého okolí. Další navrženou částí je nárazník pro ochranu před mechanickým poškozením, ke kterému v praxi velmi často dochází. Tyto nárazy způsobovli nefunkčnost senzorů odrazivosti nebo dokonce i jejich odlomení od desky.</p>
 
    Můj přídavný shield je také pinově kompatibilní s bastlířskými deskami, jako je Arduino Uno, FRDM-KL25Z, FRDM-KL46Z a FRDM-K64F.
 
